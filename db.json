@@ -4,6 +4,7 @@
             "name": "Soshi Restaurant",
             "image":"https://images.unsplash.com/photo-1513442542250-854d436a73f2?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=947&q=80",
             "description":"Neque porro quisquam est qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit",
+            "rating":"4.5",
             "restaurant_id": 1,
             "food":[
                 {
@@ -55,6 +56,7 @@
             "name": "Heroku",
             "image":"https://images.unsplash.com/photo-1468777675496-5782faaea55b?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1474&q=80",
             "description":"Neque porro quisquam est qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit",
+            "rating":"3.5",
             "restaurant_id": 2,
             "food":[
                 {
