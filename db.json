@@ -9,28 +9,32 @@
                 {
                      "id": 1,
                      "food": "Ugali Matumbo",
-                    
+                    "rating":3.5,
+                    "description":"Neque porro quisquam est qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit hotel",
                      "price": 456,
                      "restaurant_id": 1
                  },
                  {
                      "id": 2,
                      "food": "Rice Beef",
-                    
+                     "rating":4.5,
+                     "description":"Neque porro quisquam est qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit hotel",
                      "price": 500,
                      "restaurant_id": 3
                  },
                  {
                     "id": 3,
                     "food": "Chapati stew",
-                   
+                    "rating":1.5,
+                    "description":"Neque porro quisquam est qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit hotel",
                     "price": 456,
                     "restaurant_id": 1
                 },
                 {
                     "id": 4,
                     "food": "pasta",
-                   
+                    "rating":2.5,
+                    "description":"Neque porro quisquam est qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit hotel",
                     "price": 500,
                     "restaurant_id": 3
                 }
@@ -47,28 +51,32 @@
                 {
                      "id": 1,
                      "food": "Ugali Matumbo",
-                    
+                     "rating":1.5,
+                     "description":"Neque porro quisquam est qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit hotel",
                      "price": 456,
                      "restaurant_id": 1
                  },
                  {
                      "id": 2,
                      "food": "Rice Beef",
-                    
+                     "rating":0.5,
+                     "description":"Neque porro quisquam est qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit hotel",
                      "price": 500,
                      "restaurant_id": 3
                  },
                  {
                     "id": 3,
                     "food": "Chapati stew",
-                   
+                    "rating":2.5,
+                    "description":"Neque porro quisquam est qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit hotel",
                     "price": 456,
                     "restaurant_id": 1
                 },
                 {
                     "id": 4,
                     "food": "pasta",
-                   
+                    "rating":4.5,
+                    "description":"Neque porro quisquam est qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit hotel",
                     "price": 500,
                     "restaurant_id": 3
                 }
