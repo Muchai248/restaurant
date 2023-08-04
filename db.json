@@ -41,7 +41,7 @@
                 {
                     "id": 4,
                     "food": "pasta",
-                    "image":"https://images.unsplash.com/photo-1512621776951-a57141f2eefd?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=2070&q=80",
+                    "image":"",
                     "rating":2.5,
                     "description":"Neque porro quisquam est qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit hotel",
                     "price": 500,
@@ -51,7 +51,7 @@
                 {
                     "id": 5,
                     "food": "pasta",
-                    "image":"https://images.unsplash.com/photo-1512621776951-a57141f2eefd?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=2070&q=80",
+                    "image":"",
                     "rating":2.5,
                     "description":"Neque porro quisquam est qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit hotel",
                     "price": 500,
@@ -72,7 +72,7 @@
                 {
                      "id": 1,
                      "food": "Ugali Matumbo",
-                     "image":"https://images.unsplash.com/photo-1512621776951-a57141f2eefd?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=2070&q=80",
+                     "image":"",
                      "rating":1.5,
                      "description":"Neque porro quisquam est qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit hotel",
                      "price": 456,
@@ -82,7 +82,7 @@
                  {
                      "id": 2,
                      "food": "Rice Beef",
-                     "image":"https://images.unsplash.com/photo-1546069901-ba9599a7e63c?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=880&q=80",
+                     "image":"",
                      "rating":0.5,
                      "description":"Neque porro quisquam est qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit hotel",
                      "price": 500,
