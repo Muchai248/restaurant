@@ -47,16 +47,6 @@
                     "price": 500,
                     "restaurant_id": 3,
                     "category":"drinks"
-                },
-                {
-                    "id": 5,
-                    "food": "pasta",
-                    "image":"",
-                    "rating":2.5,
-                    "description":"Neque porro quisquam est qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit hotel",
-                    "price": 500,
-                    "restaurant_id": 3,
-                    "category":"drinks"
                 }
              ]
              
