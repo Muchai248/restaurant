@@ -62,7 +62,7 @@
                 {
                      "id": 1,
                      "food": "Ugali Matumbo",
-                     "image":"",
+                     "image":"https://images.unsplash.com/photo-1512621776951-a57141f2eefd?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=2070&q=80",
                      "rating":1.5,
                      "description":"Neque porro quisquam est qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit hotel",
                      "price": 456,
@@ -72,7 +72,7 @@
                  {
                      "id": 2,
                      "food": "Rice Beef",
-                     "image":"",
+                     "image":"https://images.unsplash.com/photo-1600289031464-74d374b64991?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1075&q=80",
                      "rating":0.5,
                      "description":"Neque porro quisquam est qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit hotel",
                      "price": 500,
